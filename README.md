@@ -21,11 +21,22 @@
 
 </p>
 
-- 🎓 CS Student passionate about **Artificial Intelligence**
+- 🎓 CS Student | passionate about **Artificial Intelligence**
 - 🤖 Currently diving deep into **Machine Learning**
 - 🏆 Aspiring to be a top **Data Scientist**
 - 📫 How to reach me: **Kareemukhattab@gmail.com**
 <!-- - 🎮 When I'm not training models, I'm gaming -->
+
+<h2><b>📬 Contact Me</b></h2>
+<p align="left">
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-khattab-13836a2b2/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/karimkhattab1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kareemukhattab@gmail.com)
+
+</p>
 
 ---
 
