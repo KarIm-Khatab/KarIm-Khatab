@@ -29,7 +29,7 @@
 
 ---
 
-###  Me looking at my train accuracy vs test accuracy
+<!-- ###  Me looking at my train accuracy vs test accuracy -->
 
 <!-- Upload the meme image to this repo and replace 'meme.jpg' with the actual filename -->
 <img width="452" height="350" src="meme.jpg" alt="overfitting meme" />
