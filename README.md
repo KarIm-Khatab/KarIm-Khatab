@@ -24,7 +24,7 @@
 - 🎓 CS Student passionate about **Artificial Intelligence**
 - 🤖 Currently diving deep into **Machine Learning**
 - 🏆 Aspiring to be a top **Data Scientist**
-- 🎮 When I'm not training models, I'm gaming
+<!-- - 🎮 When I'm not training models, I'm gaming -->
 - 📫 How to reach me: **Kareemukhattab@gmail.com**
 
 ---
